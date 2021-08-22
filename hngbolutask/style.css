@@ -138,8 +138,7 @@
     }
     
     .gallery img {
-        width: 360px;
-        height: 240px;
+        width: 80%;
         margin: 10px;
     }
     /*Service Section */
